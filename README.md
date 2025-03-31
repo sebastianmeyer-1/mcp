@@ -8,11 +8,13 @@
 
 ![image](https://github.com/user-attachments/assets/936f023c-41c2-4208-9ff9-52a6cee3869c)
 
+**MCP overview**
 |MCP|Description|
 |---|---|
 |CRM|Tools for CRM|
 |ERP|Tools for ERP|
 
+**Tools overview**
 |Tool|MCP|Description|
 |---|---|--|
 |Read Customer|CRM|Determine Customer Information by E-Mail Information|
